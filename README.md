@@ -7,12 +7,11 @@ Simulate Secure Sandbox is an interactive learning and experimentation environme
 This repository is designed for developers, security enthusiasts, and engineers who want to:
 
 - Explore common vulnerabilities hands-on.
-
 - Learn how to reproduce and troubleshoot insecure code.
-
 - Practice patching and validating fixes using secure CI/CD workflows.
 
-- 2025 CWE Top 25 Most Dangerous Software Weaknesses: https://cwe.mitre.org/top25/archive/2025/2025_cwe_top25.html
+## 2025 CWE Top 25 Most Dangerous Software Weaknesses
+- https://cwe.mitre.org/top25/archive/2025/2025_cwe_top25.html
 
 ## Features
 
