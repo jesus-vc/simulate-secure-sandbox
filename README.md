@@ -12,6 +12,8 @@ This repository is designed for developers, security enthusiasts, and engineers 
 
 - Practice patching and validating fixes using secure CI/CD workflows.
 
+- 2025 CWE Top 25 Most Dangerous Software Weaknesses: https://cwe.mitre.org/top25/archive/2025/2025_cwe_top25.html
+
 ## Features
 
 - Vulnerability Scenarios: Interactive examples based on the SANS Top 25, covering code issues such as injection flaws, improper authorization, and buffer errors.
